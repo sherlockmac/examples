@@ -7,8 +7,8 @@
     "start": "nuxi preview"
   },
   "devDependencies": {
-    "@nuxt/ui": "^2.10.0",
-    "nuxt": "^3.8.1",
+    "@nuxt/ui": "^2.11.0",
+    "nuxt": "^3.8.2",
     "uncrypto": "^0.1.3"
   }
 }
